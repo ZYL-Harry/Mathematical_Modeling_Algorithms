@@ -1,2 +1,2 @@
-# Mathematical_Modeling_Arithmetic
-Mathematical_Modeling_Arithmetic
+# Mathematical_Modeling_Algorithms
+Mathematical_Modeling_Algorithms
