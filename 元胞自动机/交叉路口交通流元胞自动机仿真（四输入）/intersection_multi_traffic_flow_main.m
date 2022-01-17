@@ -67,7 +67,7 @@ while 1
         rlo=light_time*light_rp-la;
     elseif la>light_time*light_rp&&la<=light_time*light_yp_2
         flag=2;
-        rl=0;
+        rlo=0;
         aa=0;
     end
     %% 车辆控制
